@@ -2,15 +2,21 @@ DEV writes to Master
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Master writes to DEV
 
 =======
 Test
 >>>>>>> dev
 =======
+=======
+>>>>>>> dev
 Test
 
 
 Test2
 
+<<<<<<< HEAD
+>>>>>>> dev
+=======
 >>>>>>> dev
