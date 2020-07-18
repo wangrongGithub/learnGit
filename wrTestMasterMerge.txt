@@ -1,4 +1,8 @@
 DEV writes to Master
 
+<<<<<<< HEAD
 Master writes to DEV
 
+=======
+Test
+>>>>>>> dev
