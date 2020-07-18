@@ -1,1 +1,4 @@
 DEV writes to Master
+
+Master writes to DEV
+
