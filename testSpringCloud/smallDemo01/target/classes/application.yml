@@ -1,0 +1,16 @@
+server:
+  port: 8591
+spring:
+  application:
+    name: spring-cloud-consul-producer
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        #服务名称
+        serviceName: service-producer
+        #健康检查时间间隔
+        health-check-interval: 5s
+        #启用健康检查
+        enabled: true
