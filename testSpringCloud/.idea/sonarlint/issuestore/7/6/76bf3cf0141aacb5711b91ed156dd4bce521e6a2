@@ -1,0 +1,20 @@
+
+W
+java:S3457b"AFormat specifiers should be used instead of string concatenation.(ºñÌ«
+\
+java:S3457p"AFormat specifiers should be used instead of string concatenation.(´áşÿÿÿÿ
+W
+java:S3457I"AFormat specifiers should be used instead of string concatenation.(œ°ö
+W
+java:S3457U"AFormat specifiers should be used instead of string concatenation.(ºñÌ«
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Äş–şÿÿÿÿ
+c
+java:S4970q"NRemove this type because it is unreachable as hidden by previous catch blocks.(¸Ë
+\
+java:S3457r"AFormat specifiers should be used instead of string concatenation.(ïü¦ıÿÿÿÿ
+©
+java:S1130)"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException' which is a subclass of 'java.io.IOException'.(ãôöÁşÿÿÿÿ
+¤
+java:S1130."Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException' which is a subclass of 'java.io.IOException'.(Î¬‘ú
+]
+java:S4275"FRefactor this getter so that it actually refers to the field "mapper".(øÿâÇ

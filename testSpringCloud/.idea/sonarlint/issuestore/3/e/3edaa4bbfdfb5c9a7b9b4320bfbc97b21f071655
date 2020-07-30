@@ -1,0 +1,8 @@
+
+8
+java:S1118"Hide this public constructor.(ƒ¦­ßùÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ¦­ßùÿÿÿÿ
+O
+java:S3516"9Refactor this method to not always return the same value.(ÒÛÓ„
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Äþ–þÿÿÿÿ
